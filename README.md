@@ -3,6 +3,7 @@
 REST API with Authentication (Node.js, Express, TypeScript, MongoDB)
 
 This project implements a REST API for user authentication using Node.js, Express, TypeScript, and MongoDB. The code is based on a video guide by [Code With Antonio](https://www.codewithantonio.com/projects/rest-api). All rights and credit for the original guide belong to them.
+Note that there are opportunities for improvement.
 
 ## Configuration
 
